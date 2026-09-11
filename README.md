@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040340
+# Name:Rithani.P
+# Date:05.09.2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1168" height="842" alt="image" src="https://github.com/user-attachments/assets/bdb38359-5d1f-4e0a-82e3-34a9e06811d4" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1251" height="847" alt="image" src="https://github.com/user-attachments/assets/8721a555-e6ea-4167-be27-e43150b875dc" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1204" height="823" alt="image" src="https://github.com/user-attachments/assets/8762c3b9-b00e-425a-95b6-ebd64d50c3c2" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,6 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="828" height="724" alt="image" src="https://github.com/user-attachments/assets/275dd371-bb18-4cdc-86ff-1b401c8cd7c1" />
 
 
 
@@ -97,6 +101,7 @@ Describe the steps performed in a UML use case.
 
 
 
+<img width="629" height="805" alt="image" src="https://github.com/user-attachments/assets/820e83a5-bb3b-4826-a52f-4d34c5e19bdc" />
 
 
 # SEQUENCE DIAGRAM
@@ -117,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1055" height="843" alt="image" src="https://github.com/user-attachments/assets/f21da684-b980-45a7-930b-b4e7a968bd3d" />
 
 
 
